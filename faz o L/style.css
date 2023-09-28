@@ -1,0 +1,28 @@
+.pagina_1 {
+     border: crimson;
+background-image: url(img/QKqEqgX8CWMa2VRHAA2n5-eTTkQy-MUKJYpmuk5huQU.webp);
+width: 100%;
+align-self: center;
+align-items: center;
+width: 800px;
+height: auto;
+padding: 10px 10px;
+border: 1px;
+border-radius: 10px;
+border-color: black;
+
+}
+
+header{
+    
+background-color: black;
+color: aliceblue;
+
+}
+    div { background-color: darkred;
+        color: black;
+
+
+    }
+    
+  
