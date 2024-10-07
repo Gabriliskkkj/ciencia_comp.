@@ -1,11 +1,14 @@
 
 .fotoNigger {
     width: 300px;
+    align-content: center;
+    align-items: center;
+    padding-left: 30px;
 }
 
 .body { 
     padding-top: 250px;
-    display: flex;
+   
     align-content: center;
     align-items: center;
     justify-content: center;
@@ -14,7 +17,8 @@
 .cabeçalho {
     font-family: Arial, Helvetica, sans-serif; 
     margin: 50px;
-    padding: 10px;
+    padding: 10px; 
+    text-align: center;
 }
 
 .button {
@@ -30,6 +34,7 @@
 .dark-theme {
     background-color: rgb(35, 31, 31);
     color: #fff;
+   
 } 
 
 .button:hover {

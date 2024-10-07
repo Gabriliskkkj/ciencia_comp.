@@ -9,13 +9,12 @@ button.addEventListener('click', () => {
     
     // Alterar o texto do botão conforme o tema
     if (body.classList.contains('dark-theme')) {
-        imagem.src = 'style/81865188_re-rio-de-janeiro-rj-27-03-2019-nego-ney-o-menino-de-7-anos-que-tem-viralizado-por-seu.jpg';
-        button.innerHTML = '<h1>Mudar para Claro</h1>';
-        titulo.textContent = 'Negro Ney';
+        imagem.src = 'style/lula.jpg';
+        button.innerHTML = '<h1>Mudar para o lado Claro da força</h1>';
+        titulo.textContent = 'Lula';
     } else {
-        imagem.src = 'style/6h7kgre864c41.jpg';
-        button.innerHTML = '<h1>Mudar para Escuro</h1>';
-        titulo.textContent = 'Branco Ney';
+        imagem.src = 'style/bolsonaro.jpg';
+        button.innerHTML = '<h1>Mudar para o lado Escuro da força</h1>';
+        titulo.textContent = 'Bolsonaro: UM fenômeno ignorado';
     }
 }); 
-
